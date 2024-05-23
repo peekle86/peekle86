@@ -10,6 +10,7 @@
 - 🔧 I am responsible in completing tasks.
 - 🌱 I like to learn open source solutions, refine them and use them in my projects
 </p>
+</div>
 
 ### 🛠  Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
