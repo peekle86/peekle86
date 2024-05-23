@@ -13,6 +13,7 @@
 </p>
 
 <p align="left">
+  
 ### 🛠  Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -26,12 +27,16 @@
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-</p>
-<p align="left">
-In short: Backend Developer
+
 </p>
 
+<p align="left">
+  
+In short: Backend Developer
 ---
+
+</p>
+
 ### 📊 GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peekle86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
