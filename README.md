@@ -6,9 +6,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-- 🎮 I am passionate about games, design, coffee and coding
-- 🔧 I am responsible in completing tasks.
-- 🌱 I like to learn open source solutions, refine them and use them in my projects
+  <ul>
+    <li>- 🎮 I am passionate about games, design, coffee and coding</li>
+    <li>- 🔧 I am responsible in completing tasks.</li>
+    <li>- 🌱 I like to learn open source solutions, refine them and use them in my projects</li>
+  </ul>
 </p>
 </div>
 
