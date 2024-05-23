@@ -1,15 +1,15 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ### 👨‍💻 About Me :
-<div align="Center">
+<div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <ul>
-    <li>- 🎮 I am passionate about games, design, coffee and coding</li>
-    <li>- 🔧 I am responsible in completing tasks.</li>
-    <li>- 🌱 I like to learn open source solutions, refine them and use them in my projects</li>
+    <li> 🎮 I am passionate about games, design, coffee and coding</li>
+    <li> 🔧 I am responsible in completing tasks.</li>
+    <li> 🌱 I like to learn open source solutions, refine them and use them in my projects</li>
   </ul>
 </p>
 </div>
