@@ -1,7 +1,6 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ### 👨‍💻 About Me :
-<div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -13,7 +12,7 @@
   </ul>
 </p>
 
-<div align="left">
+<p align="left">
 ### 🛠  Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -27,12 +26,11 @@
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-</div>
-<div align="left">
+</p>
+<p align="left">
 In short: Backend Developer
-</div>
+</p>
 
-</div>
 ---
 ### 📊 GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peekle86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
