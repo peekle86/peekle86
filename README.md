@@ -1,15 +1,15 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ### 👨‍💻 About Me :
-I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦
+<div align="Center">
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzbTh3OXl2dWllZmVvdnZ4a2JqajRtZGJvYWEzaG9scHAwc2RhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="375"  /></p>
-
-
+<p align="left"> 
 - 🎮 I am passionate about games, design, coffee and coding
 - 🔧 I am responsible in completing tasks.
 - 🌱 I like to learn open source solutions, refine them and use them in my projects
+</p>
 
 ### 🛠  Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
