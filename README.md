@@ -43,3 +43,5 @@ In short: Backend Developer
 ### 📫 How to reach me :
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hypertrophillius)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-horodnyk-03001b241)
+
+[![Vitalii Horodnyk profile views](https://u8views.com/api/v1/github/profiles/77104312/views/day-week-month-total-count.svg)](https://u8views.com/github/peekle86)
